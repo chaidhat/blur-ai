@@ -1,5 +1,6 @@
 # BlurNet - CS 188
-## Teshinee Kukamjad, Chaidhat Chaimongkol
+### Teshinee Kukamjad, Chaidhat Chaimongkol. 2024.
+![Untitled](/images/0.png)
 
 **Abstract:** We discuss the CS 188 report on different methods used for image generation, including traditional GANs, conditional GANs, and the Pix2Pix method. It covers the implementation, performance, and post-processing of these methods, along with the results and discussion of their effectiveness.\
 **Due:** March 22, 2024 10:00 PM (PDT)
